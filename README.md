@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/Hieppt/WebDev/edit/master/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Link to Web page
+You can check the last version of the web page created with the Github platform: [click here](https://hieppt.github.io/WebDev/site)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
